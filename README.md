@@ -101,19 +101,9 @@
 </div>
 
 <br />
-<br />
-<br />
-
-<br />
-
-<a href="#">
-  <img src="https://github.com/AngelicaRafaela/AngelicaRafaela/blob/output/dracula.svg" width="100%">
-</a>
 
 <a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
 
-<br />
-<br />
 <br />
 
 <h2 align="center">🤝 Support</h2>
