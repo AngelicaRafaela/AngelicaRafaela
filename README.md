@@ -69,7 +69,6 @@
   <a href="#">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AngelicaRafaela&show_icons=true&theme=radical&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelicaRafaela&theme=radical&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelicaRafaela&theme=rogue&hide_border=true&area=true&bg_color=141321&area_color=FE428E&line=FE428E&title_color=FE428E" />
   </a>
 </div>
 
@@ -104,10 +103,6 @@
 <br />
 <br />
 <br />
-
-<a href="#">
-  <img src="./assets/generated/skyline.svg" width="100%">
-</a>
 
 <br />
 
