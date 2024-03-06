@@ -124,8 +124,8 @@
 
  <div align="center">
   <a href="https://open.spotify.com/user/angelmaluh?si=b9b45d3f2abc4bfd">
-
-    <img align="center" src="./assets/images/spotify.gif" width="100" />
+<a>
+    <img align="center" src="./assets/images/spotify.gif" width="100"/>
   </a>
  </div>
 
@@ -137,7 +137,7 @@
   </a>
 
   <a href="https://open.spotify.com/user/angelmaluh?si=b9b45d3f2abc4bfd" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=l9hb9qtvjvuk3gxt5xq93enxf" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=angelmaluh?si=b9b45d3f2abc4bfd" />
   </a>
 
   <a href="#">
