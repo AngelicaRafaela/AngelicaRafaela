@@ -44,19 +44,10 @@
   <a href="#">
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaRafaela&layout=compact&langs_count=8&theme=radical&hide_border=true" />
   </a>
-
-  <a href="#">
-    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=radical" />
-  </a>
 </div>
 
 <br />
 
-<div align="center">
-
-[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=AngelicaRafaela&theme=radical&row=1&margin-w=30&no-frame=true&no-bg=true)](#)
-
-</div>
 
 <br />
 
@@ -110,46 +101,9 @@
  </a>
 </div>
 
- <br/>
- <br/>
-
- <div align="center">
-  <a href="https://open.spotify.com/user/angelmaluh?si=b9b45d3f2abc4bfd">
-<a>
-    <img align="center" src="./assets/images/spotify.gif" width="100"/>
-  </a>
- </div>
-
- <br/>
-
-<div align="center">
-  <a href="#">
-    <img src="./assets/images/music.gif" width="150" />
-  </a>
-
-  <a href="https://open.spotify.com/user/angelmaluh?si=b9b45d3f2abc4bfd" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=angelmaluh?si=b9b45d3f2abc4bfd" />
-  </a>
-
-  <a href="#">
-    <img src="./assets/images/music.gif" width="150" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-
-[![Angelica Spotify Now Playing](https://andyruwruw.vercel.app/api/now-playing)](https://open.spotify.com/user/angelmaluh?si=b9b45d3f2abc4bfd)
-
-[![Angelica Spotify Top](https://andyruwruw.vercel.app/api/top-played)](https://open.spotify.com/user/angelmaluh?si=b9b45d3f2abc4bfd)
-</div>
-
 <br />
 <br />
 <br />
-
-[![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)](#)
 
 <a href="#">
   <img src="./assets/generated/skyline.svg" width="100%">
