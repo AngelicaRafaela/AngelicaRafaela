@@ -23,7 +23,7 @@
 <br />
 
 - 🖥️ Análise e Desenvolvimento de Sistemas - Fatec Jales.
-- 👨‍🏫 Administrativo e TI na FAG Transportadora.
+- 👨‍🏫 Administrativo e Desenvolvedora Full Stack na FAG Transportadora.
 - 💻 Desenvolvedor Full Stack.
 - 🚀 Apaixonada por Front End e aprimorando minhas habilidades no Back End.
 - 🏡 Sou Brasileira, moro em Jales-SP.
