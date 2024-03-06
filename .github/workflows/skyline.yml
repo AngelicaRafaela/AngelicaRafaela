@@ -1,0 +1,18 @@
+name: Skyline
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Genrate Skyline
+        uses: lowlighter/metrics@master
+        with:
+          filename: assets/generated/skyline.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_skyline: yes
+          plugin_skyline_frames: 120
+          plugin_skyline_quality: 1
+          base: metadata
