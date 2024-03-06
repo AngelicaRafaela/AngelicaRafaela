@@ -25,7 +25,7 @@
 - 🖥️ Análise e Desenvolvimento de Sistemas - Fatec Jales.
 - 👨‍🏫 Administrativo e TI na FAG Transportadora.
 - 💻 Desenvolvedor Full Stack.
-- 🚀 Apaixonado por Front End e aprimorando minhas habilidades no Back End.
+- 🚀 Apaixonada por Front End e aprimorando minhas habilidades no Back End.
 - 🏡 Sou Brasileira, moro em Jales-SP.
 
 <div align="right">
@@ -95,75 +95,6 @@
 <p align="center">Last refresh: <b>Wednesday, March 6th, 2024, 1:35:35 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
-</details>
-
-<details>
-<summary><h3>:clock230: WakaTime Stats</h3></summary>
-
-  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C266%20hrs%2038%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-32.0%20million%20linhas%20de%20c%C3%B3digo-blue)
-
-**🐱 Meus dados no GitHub** 
-
-> 📦 2.6 MB Usado no armazenamento do GitHub 
- > 
-> 🏆 121 Contribuições no ano de 2024
- > 
-> 💼 Aberto para contratação
- > 
-> 📜 57 Repositórios Públicos 
- > 
-> 🔑 3 Repositórios Privados 
- > 
-**Eu sou diurno 🐤** 
-
-```text
-🌞 Manhã                  2804 commits        ███████░░░░░░░░░░░░░░░░░░   27.52 % 
-🌆 Tarde                  2428 commits        ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-🌃 Noite                  2480 commits        ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-🌙 Madrugada              2477 commits        ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-```
-📅 **Sou mais produtivo em Sexta-Feira** 
-
-```text
-Segunda-Feira            1443 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Terça-Feira              1849 commits        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Quarta-Feira             1658 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Quinta-Feira             1469 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Sexta-Feira              2135 commits        █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-Sábado                   670 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Domingo                  965 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-```
-
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-🔥 Editores: 
-VS Code                  28 hrs 13 mins      █████████████████████████   100.00 % 
-
-💻 Sistema operacional: 
-Linux                    25 hrs 33 mins      ███████████████████████░░   90.54 % 
-WSL                      2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-```
-
-**Eu geralmente programo em TypeScript** 
-
-```text
-TypeScript               50 repos            ████████████████░░░░░░░░░   64.94 % 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-```
-
-
-
-
- Last Updated on 06/03/2024 01:09:22 UTC
-<!--END_SECTION:waka-->
 </details>
 
 <details>
@@ -252,10 +183,10 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 <div align="center">
 
-[![Angelica Spotify Now Playing](https://andyruwruw.vercel.app/api/now-playing)](https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf)
+[![Angelica Spotify Now Playing](https://andyruwruw.vercel.app/api/now-playing)]([https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf](https://open.spotify.com/user/angelmaluh?si=b9b45d3f2abc4bfd))
 
-[![Angelica Spotify Top](https://andyruwruw.vercel.app/api/top-played)](https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf)
-
+[![Angelica Spotify Top](https://andyruwruw.vercel.app/api/top-played)]([https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf](https://open.spotify.com/user/angelmaluh?si=b9b45d3f2abc4bfd
+))
 </div>
 
 <br />
