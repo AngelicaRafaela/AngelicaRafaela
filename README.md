@@ -68,15 +68,6 @@
 
 <a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
 
-## 📈 Análise de Desenvolvimento Semanal
-
-[![Angelica Rafaela WakaTime Activity](https://github.com/AngelicaRafaela/AngelicaRafaela/blob/main/images/stat.svg)](#)
-
-<br />
-<br />
-
-<a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
-
 <div align="center">
   <a href="#">
     <img src="./assets/images/title-dev.gif" width="170" />
