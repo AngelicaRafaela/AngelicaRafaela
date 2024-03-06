@@ -17,7 +17,6 @@
 <img align="right" alt="Visitas" src="https://komarev.com/ghpvc/?username=AngelicaRafaela&label=Profile%20views&color=blueviolet&style=flat">
 <img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/AngelicaRafaela?style=flat&color=blueviolet&logo=github" />
 <img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.strrl.dev/commits/monthly/AngelicaRafaela?style=flat&color=blueviolet" />
-<img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.strrl.dev/contributions/all/AngelicaRafaelas?color=blueviolet" />
 <img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/AngelicaRafaela?style=flat&color=blueviolet" />
 
 <br />
@@ -27,7 +26,7 @@
 - 👨‍🏫 Administrativo e TI na FAG Transportadora.
 - 💻 Desenvolvedor Full Stack.
 - 🚀 Apaixonado por Front End e aprimorando minhas habilidades no Back End.
-- 🏡 Sou Brasileiro, moro em Guarulhos-SP.
+- 🏡 Sou Brasileira, moro em Jales-SP.
 
 <div align="right">
   <a href="#">
