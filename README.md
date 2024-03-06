@@ -75,37 +75,6 @@
 <br />
 <br />
 
-<details>
-<summary><h3>:zap: Recent GitHub Activity</h3></summary>
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [AngelicaRafaela/AngelicaRafaela](https://github.com/AngelicaRafaela/AngelicaRafaela)<br>
-2. ⭐ Starred [willianjusten/nba-nextjs](https://github.com/willianjusten/nba-nextjs)<br>
-3. ⬆️ Pushed 1 commit(s) to [AngelicaRafaela/NextJs-Boilerplate](https://github.com/AngelicaRafaela/NextJs-Boilerplate)<br>
-4. ⬆️ Pushed 1 commit(s) to [AngelicaRafaela/TMS-Web](https://github.com/AngelicaRafaela/TMS-Web)<br>
-5. ⬆️ Pushed 1 commit(s) to [AngelicaRafaela/CodeLeap](https://github.com/AngelicaRafaela/CodeLeap)<br>
-6. ⬆️ Pushed 1 commit(s) to [AngelicaRafaela/NextJs-Boilerplate](https://github.com/AngelicaRafaela/NextJs-Boilerplate)<br>
-7. ⬆️ Pushed 1 commit(s) to [AngelicaRafaela/AngelicaRafaela](https://github.comAngelicaRafaela/AngelicaRafaela)<br>
-8. ⬆️ Pushed 1 commit(s) to [AngelicaRafaela/TMS-Web](https://github.com/AngelicaRafaela/TMS-Web)<br>
-9. ⬆️ Pushed 1 commit(s) to [AngelicaRafaela/CodeLeap](https://github.com/AngelicaRafaela/CodeLeap)<br>
-10. ⬆️ Pushed 1 commit(s) to [AngelicaRafaela/AngelicaRafaela](https://github.com/AngelicaRafaela/AngelicaRafaela)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, March 6th, 2024, 1:35:35 PM BRT</b>
-<!--RECENT_ACTIVITY:last_update_end-->
-
-</details>
-
-<details>
-  <summary><h3>:bookmark: DevCard</h3></summary>
-
-  <a href="#">
-    <img src="./devcard.svg" width="450" />
-  </a>
-
-</details>
-
 <a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
 
 <div align="center">
@@ -132,7 +101,7 @@
 
 <a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
 
-[![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,illustrator,xd,figma,vscode,eclipse,androidstudio,git,github,html,css,sass,bootstrap,tailwind,javascript,typescript,jquery,nodejs,expressjs,nestjs,react,nextjs,vite,styledcomponents,jest,webpack,babel,apollo,graphql,kafka,java,kotlin,cs,dotnet,docker,linux,md,prisma,maven,planetscale,supabase,mongo,sqlite,mysql,postgres,redis,githubactions,nginx,aws,vercel,heroku,netlify&theme=dark)](#)
+[![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,illustrator,xd,figma,vscode,git,github,html,css,bootstrap,tailwind,javascript,typescript,jquery,nodejs,nestjs,react,nextjs,vite,java,cs,linux,postgres,githubactions,aws)](#)
 
 ##
 
@@ -150,15 +119,12 @@
  </a>
 </div>
 
-<div align="right">
- <img alt="Angelica Gif" height="180" width="180" src="./assets/images/dev-animation.gif">
-</div>
-
  <br/>
  <br/>
 
  <div align="center">
-  <a href="https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf">
+  <a href="https://open.spotify.com/user/angelmaluh?si=b9b45d3f2abc4bfd">
+
     <img align="center" src="./assets/images/spotify.gif" width="100" />
   </a>
  </div>
@@ -170,7 +136,7 @@
     <img src="./assets/images/music.gif" width="150" />
   </a>
 
-  <a href="https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf" target="_blank">
+  <a href="https://open.spotify.com/user/angelmaluh?si=b9b45d3f2abc4bfd" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=l9hb9qtvjvuk3gxt5xq93enxf" />
   </a>
 
@@ -183,10 +149,9 @@
 
 <div align="center">
 
-[![Angelica Spotify Now Playing](https://andyruwruw.vercel.app/api/now-playing)]([https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf](https://open.spotify.com/user/angelmaluh?si=b9b45d3f2abc4bfd))
+[![Angelica Spotify Now Playing](https://andyruwruw.vercel.app/api/now-playing)](https://open.spotify.com/user/angelmaluh?si=b9b45d3f2abc4bfd)
 
-[![Angelica Spotify Top](https://andyruwruw.vercel.app/api/top-played)]([https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf](https://open.spotify.com/user/angelmaluh?si=b9b45d3f2abc4bfd
-))
+[![Angelica Spotify Top](https://andyruwruw.vercel.app/api/top-played)](https://open.spotify.com/user/angelmaluh?si=b9b45d3f2abc4bfd)
 </div>
 
 <br />
