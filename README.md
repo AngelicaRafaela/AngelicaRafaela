@@ -38,9 +38,6 @@
 
 <br />
 
-<br/>
-
-<a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
 
 [![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,illustrator,xd,figma,vscode,git,github,html,css,bootstrap,tailwind,javascript,typescript,jquery,nodejs,nestjs,react,nextjs,vite,java,cs,linux,postgres,githubactions,aws,python)](#)
 
