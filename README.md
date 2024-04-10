@@ -38,26 +38,6 @@
 
 <br />
 
-
-
-<div align="center">
-  <a href="#">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaRafaela&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-  </a>
-</div>
-
-<br />
-<br />
-
-<a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
-
-
-<div align="right">
-  <a href="#">
-    <img src="./assets/images/up.gif" width="40" />
-  </a>
-</div>
-
 <br/>
 
 <a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
