@@ -51,18 +51,6 @@
 
 <a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
 
-<div align="center">
-  <a href="#">
-    <img src="./assets/images/title-dev.gif" width="170" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="#">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AngelicaRafaela&show_icons=true&theme=radical&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelicaRafaela&theme=radical&hide_border=true" />
-  </a>
-</div>
 
 <div align="right">
   <a href="#">
